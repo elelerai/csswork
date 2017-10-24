@@ -1,0 +1,115 @@
+h1 {
+  color: red;
+}
+
+p.intro {
+       color: green;
+       width: 50%;
+       font-style: italic;
+}
+
+p.author {
+        width: 75%;
+        font-style: italic;
+        font-weight: bold;
+        color: yellow;
+}
+
+.important {
+        color: red;
+}
+    
+
+.important {
+        color: red;
+}
+
+.unimportant {
+        color: blue;
+}
+
+.fish-type {
+       color: green;
+}
+
+.highlight {
+        width: 75%;
+        font-style: italic;
+        font-weight: bold;
+        color: yellow;
+}
+
+img {
+        float: left;
+}
+
+.sidebar {
+        width: 30%;
+        float: right;
+        background-color: yellow;
+}
+
+.column {
+        width: 300px;
+        float: left;
+
+}
+ .my-class {
+        border: 2px solid green;
+      }
+    
+.my-class {
+        border: 2px solid green;
+        padding: 4px;
+      }
+
+
+.my-class {
+        margin: 12px;
+        border: 2px solid green;
+        padding: 4px;
+      }
+    
+.my-class { 
+
+        margin: 12px; 
+
+        border: 2px solid green; 
+
+        padding: 4px; 
+
+        background-color: orange; 
+
+      } 
+
+      .digital p {
+        background-color: red;
+      }
+
+      .analog p {
+        background-color: yellow;
+      }
+
+      .digital p a {
+        font-weight: bold;
+      }
+
+      .analog p a {
+        font-style: italic;
+      }
+      .digital p a {
+        font-weight: bold;
+      }
+
+      a {
+        font-weight: normal;
+      }
+    
+
+
+
+
+
+
+
+
